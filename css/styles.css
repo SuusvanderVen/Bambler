@@ -11,6 +11,10 @@ body {
     font-weight: 400;
 }
 
+a:link {color: #000000}
+a:hover {color: #5F7336}
+
+
 /* Changing the background colour for the header */
 
 header {
@@ -23,6 +27,7 @@ header {
 	background-color: #FFFDF3;
 }
 
+.navbar li:hover > a {color: #5F7336}
 /* Effect on social media buttons */
 
 footer a:hover {
