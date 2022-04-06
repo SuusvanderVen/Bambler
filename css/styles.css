@@ -25,7 +25,10 @@ header {
 	background-color: #FFFDF3;
 }
 
-.nav-link li:hover > a {color: #5F7336}
+.nav-item li:hover > a {color: #5F7336}
+
+
+
 /* Effect on social media buttons */
 
 footer a:hover {
