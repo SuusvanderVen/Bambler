@@ -22,13 +22,21 @@ header {
 
 /* Changing the background color for the navigation bar */
 
+<<<<<<< HEAD
 .navbar {
 	background-color: #FFFFED;
 }
 
 .nav-item li:hover > a {color: #5F7336}
 
+=======
+.navbar {background-color: #E6E6CA}
 
+.nav-item li:hover > a {color: #FFFDF3;}
+>>>>>>> c773cbf397cc10250b1ca6173f00c0e239bad5d9
+
+
+.bolder {font-weight: 300;}
 
 /* Effect on social media buttons */
 
