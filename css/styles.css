@@ -16,13 +16,13 @@ body {
 /* Changing the background colour for the header */
 
 header {
-	background-color: #6A853E;
+	background-color: #FFFDF3;
 }
 
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #FFFDF3;
+	background-color: #FFFFED;
 }
 
 .nav-item li:hover > a {color: #5F7336}
