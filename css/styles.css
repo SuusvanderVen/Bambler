@@ -22,7 +22,7 @@ header {
 
 /* Changing the background color for the navigation bar */
 
-.navbar {color: #E6E6CA;}
+.navbar {background-color: #E6E6CA}
 
 .nav-item li:hover > a {color: #FFFDF3;}
 
