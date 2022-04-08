@@ -6,6 +6,7 @@
 
 body {
     font-family: andada;
+	color: #5F7336
     background-color: #E6E6CA;
     font-style: normal;
     font-weight: 400;
@@ -16,7 +17,7 @@ body {
 /* Changing the background colour for the header */
 
 header {
-	background-color: #FFFDF3;
+	background-color: #9FB870;
 }
 
 /* Changing the background color for the navigation bar */
