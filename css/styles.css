@@ -17,18 +17,16 @@ body {
 /* Changing the background colour for the header */
 
 header {
-	background-color: #FFFDF3;
+	background-color: #B5AF8D;
 }
 
 /* Changing the background color for the navigation bar */
 
-.navbar {
-	background-color: #FFFFED;
-}
+.navbar {color: #FFFDF3; }
 
-.nav-item li:hover > a {color: #5F7336}
+.nav-item li:hover > a {color: #FFFDF3}
 
-
+.middlebox {color: #B5AF8D;}
 
 /* Effect on social media buttons */
 
