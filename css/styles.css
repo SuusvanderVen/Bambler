@@ -1,40 +1,152 @@
 /* Importing a Google Font */
 
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,400;0,500&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 /* Changing the main font and background colour */
+
+
+.headershop {font-family: 'Poppins', sans-serif;}
+
+.dotgreen {
+  height: 25px;
+  width: 25px;
+  background-color: #9FB870;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dotblack {
+  height: 25px;
+  width: 25px;
+  background-color: #000000;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dotgrey {
+  height: 25px;
+  width: 25px;
+  background-color: #9A9A9A;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dotyellow {
+  height: 25px;
+  width: 25px;
+  background-color: #FEDA88;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dotblue {
+  height: 25px;
+  width: 25px;
+  background-color: #B6CCE1;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dotorange {
+  height: 25px;
+  width: 25px;
+  background-color: #CA6134;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dotpink {
+  height: 25px;
+  width: 25px;
+  background-color: #F4B7C9;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dotdarkgreen {
+  height: 25px;
+  width: 25px;
+  background-color: #5F7336;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+
+
+
+
+
+
+.dotblue:hover {
+    border: #333 solid 3px;
+}
+
+.dotblack:hover {
+    border: #9A9A9A solid 3px;
+}
+
+.dotgrey:hover {
+    border: #333 solid 3px;
+}
+
+.dotyellow:hover {
+    border: #333 solid 3px;
+}
+
+.dotgreen:hover {
+    border: #333 solid 3px;
+}
+
+.dotorange:hover {
+    border: #333 solid 3px;
+}
+
+.dotpink:hover {
+    border: #333 solid 3px;
+}
+
+.dotdarkgreen:hover {
+    border: #333 solid 3px;
+}
+
+
+
+
+
+
+
+
 
 body {
     font-family: andada;
-	color: #5F7336
     background-color: #E6E6CA;
     font-style: normal;
     font-weight: 400;
 }
 
-
+.mycolor{
+	color: #6A853E}
 
 /* Changing the background colour for the header */
 
 header {
-	background-color: #9FB870;
+	background-color: #B5AF8D;
 }
 
 /* Changing the background color for the navigation bar */
 
-<<<<<<< HEAD
-.navbar {
-	background-color: #FFFFED;
-}
-
-.nav-item li:hover > a {color: #5F7336}
-
-=======
 .navbar {background-color: #E6E6CA}
 
-.nav-item li:hover > a {color: #FFFDF3;}
->>>>>>> c773cbf397cc10250b1ca6173f00c0e239bad5d9
+.material-icons{
+  position: absolute;
+  right:15px;
+}
 
+.material-icons:hover{
+    color:#6A853E;
+}
+
+.middlebox {color: #B5AF8D;}
 
 .bolder {font-weight: 300;}
 
