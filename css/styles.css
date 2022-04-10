@@ -6,6 +6,7 @@
 
 
 .headershop {font-family: 'Poppins', sans-serif;}
+.webshopitem {color: #FFFFFF;}
 
 .dotgreen {
   height: 25px;
@@ -34,7 +35,7 @@
 .dotyellow {
   height: 25px;
   width: 25px;
-  background-color: #FEDA88;
+  background-color: #E8C82C;
   border-radius: 50%;
   display: inline-block;
 }
@@ -119,7 +120,7 @@
 
 body {
     font-family: andada;
-    background-color: #FFFFFF;
+    background-color: #E6E6CA;
     font-style: normal;
     font-weight: 400;
 }
@@ -155,3 +156,10 @@ header {
 footer a:hover {
 	opacity: .5;
 }
+
+
+
+
+
+
+
