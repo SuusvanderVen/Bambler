@@ -120,7 +120,7 @@
 
 body {
     font-family: andada;
-    background-color: #E6E6CA;
+    background-color: #FFFFFF;
     font-style: normal;
     font-weight: 400;
 }
@@ -150,6 +150,38 @@ header {
 .middlebox {color: #B5AF8D;}
 
 .bolder {font-weight: 300;}
+
+.carousel-inner{
+	position: absolute;
+	left:70px;
+	top:70px;
+	
+}
+
+
+.carousel-control-prev-icon {
+    position: absolute;
+    bottom: -604px;
+    left: 78px;
+}
+
+.carousel-control-next-icon {
+    position: absolute;
+    bottom: -600px;
+    right: 1120px;
+}
+
+.shopitem{
+	position: absolute;
+	top:250px;
+	right:700px
+}
+
+
+
+
+
+
 
 /* Effect on social media buttons */
 
