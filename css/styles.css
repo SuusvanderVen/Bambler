@@ -251,7 +251,12 @@ header {
 }
 
 
-
+.iconsproduct{
+	position: absolute;
+	top: 600px;
+	right: 30px;
+	
+}
 
 
 /* Effect on social media buttons */
