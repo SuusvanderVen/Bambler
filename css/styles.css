@@ -158,6 +158,12 @@ header {
 	
 }
 
+.carousel-item{
+	width: 0px; 
+}
+
+
+
 
 .carousel-control-prev-icon {
     position: absolute;
@@ -186,14 +192,8 @@ header {
 	left:1200px
 }
 
-.product-color span,
-.cable-config span {
-  font-size: 14px;
-  font-weight: 400;
-  color: #86939E;
-  margin-bottom: 20px;
-  display: inline-block;
-}
+
+
 
 /* Product Color */
 .product-color {
@@ -254,7 +254,7 @@ header {
 }
 
 
-}
+
 
 
 /* Effect on social media buttons */
