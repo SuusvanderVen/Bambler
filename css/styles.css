@@ -175,15 +175,15 @@ header {
 .containerproduct{
 	text-align: left;
 	position: absolute;
-	top:250px;
-	left:1200px;
+	top:260px;
+	left:1204px;
 	font-family:'Poppins', sans-serif;
 }
 
 .logoplacement{
 	position:absolute;
 	top:175px;
-	left:1208px;
+	left:1200px
 }
 
 
