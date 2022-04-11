@@ -111,13 +111,6 @@
 }
 
 
-
-
-
-
-
-
-
 body {
     font-family: andada;
     background-color: #FFFFFF;
@@ -162,10 +155,7 @@ header {
 	width: 0px; 
 }
 
-.carousel-control-next,
-.carousel-control-prev /*, .carousel-indicators */ {
-    filter: invert(100%);
-}
+
 
 
 .carousel-control-prev-icon {
@@ -177,10 +167,13 @@ header {
 .carousel-control-next-icon {
     position: absolute;
     bottom: -600px;
-    right: 1100px;
-	color: #000000;
-}
+	right: 1125px;
 
+}
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
 
 .containerproduct{
 	text-align: left;
