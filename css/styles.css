@@ -171,16 +171,20 @@ header {
     right: 1120px;
 }
 
-.shopitem{
+
+.containerproduct{
+	text-align: left;
 	position: absolute;
 	top:250px;
-	right:700px
+	left:1200px;
+	font-family:'Poppins', sans-serif;
 }
 
-
-
-
-
+.logoplacement{
+	position:absolute;
+	top:175px;
+	left:1208px;
+}
 
 
 /* Effect on social media buttons */
