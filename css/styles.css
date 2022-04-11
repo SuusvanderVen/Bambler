@@ -162,12 +162,15 @@ header {
 	width: 0px; 
 }
 
-
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
 
 
 .carousel-control-prev-icon {
     position: absolute;
-    bottom: -604px;
+    bottom: -600px;
     left: 78px;
 }
 
@@ -175,6 +178,7 @@ header {
     position: absolute;
     bottom: -600px;
     right: 1120px;
+	color: #000000;
 }
 
 
