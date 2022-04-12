@@ -189,7 +189,7 @@ input[type=submit]{
     filter: invert(100%);
 }
 
-.container{
+.containerproduct{
 	text-align: left;
 	position: absolute;
 	top:260px;
@@ -315,6 +315,10 @@ input[type=submit]{
 	width: auto;
 }
 
+.nav-item{
+	font-family:'Poppins', sans-serif;
+	font-weight: bold;
+}
 
 /* Effect on social media buttons */
 
