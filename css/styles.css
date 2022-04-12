@@ -4,7 +4,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 /* Changing the main font and background colour */
 
-
+.img-fluid{
+	max-width: 100%;
+	height: auto;
+}
 .headershop {font-family: 'Poppins', sans-serif;}
 .webshopitem {color: #FFFFFF;}
 
