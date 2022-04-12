@@ -43,7 +43,9 @@
   border-radius: 50%;
   display: inline-block;
 }
-
+.textnormal {
+	font-family:'Poppins', sans-serif;
+}
 .textcenter {
 	text-align: center;
 	font-family:'Poppins', sans-serif;
@@ -161,7 +163,7 @@ body {
 /* Changing the background colour for the header */
 
 header {
-	background-color: #B5AF8D;
+	background-color: #9FB870;
 }
 
 /* Changing the background color for the navigation bar */
