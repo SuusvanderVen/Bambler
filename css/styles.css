@@ -28,6 +28,10 @@
   display: inline-block;
 }
 
+.textcenter {
+	text-align: center;
+	font-family:'Poppins', sans-serif;
+}
 .mt-4 {
 	text-align: center;
 	object-position: center;
