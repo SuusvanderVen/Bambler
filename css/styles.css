@@ -201,6 +201,8 @@ input[type=submit]{
 	position:absolute;
 	top:175px;
 	left:1200px;
+	max-width: 100%;
+	height: auto;
 }
 
 
