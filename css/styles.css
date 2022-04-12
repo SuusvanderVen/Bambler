@@ -20,6 +20,22 @@
 .headershop {font-family: 'Poppins', sans-serif;}
 .webshopitem {color: #FFFFFF;}
 
+
+.mb-3{
+	font-family:'Poppins', sans-serif;
+}
+
+.form-label{ 
+	font-family:'Poppins', sans-serif;
+	font-size: 18px;
+}
+.fonts {font-family: 'Poppins', sans-serif;}
+.form-control { font-family:'Poppins', sans-serif;}
+.form-select{font-family: 'Poppins', sans-serif}
+.input-group-text {font-family:'Poppins', sans-serif }
+
+
+
 .dotgreen {
   height: 25px;
   width: 25px;
