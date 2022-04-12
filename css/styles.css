@@ -31,10 +31,11 @@
 }
 .fonts {font-family: 'Poppins', sans-serif;}
 .form-control { font-family:'Poppins', sans-serif;}
-.form-select{font-family: 'Poppins', sans-serif}
-.input-group-text {font-family:'Poppins', sans-serif }
-
-
+.form-select{font-family: 'Poppins', sans-serif;}
+.input-group-text {font-family:'Poppins', sans-serif; }
+.form-check-label {font-family:'Poppins', sans-serif;}
+.text-muted {font-family:'Poppins', sans-serif;}
+.button {font-family:'Poppins', sans-serif;}
 
 .dotgreen {
   height: 25px;
@@ -145,7 +146,7 @@
 
 
 body {
-    font-family: andada;
+    font-family: 'Poppins', sans-serif;
     background-color: #FFFFFF;
     font-style: normal;
     font-weight: 400;
@@ -202,6 +203,18 @@ input[type=submit]{
 	border: 1px solid #5F7336;
 	  border-radius: 4px;
 }
+
+input:focus {
+	outline: none;
+  	border: 1px solid #9FB870;
+}
+
+.text-primary{
+	color: #5F7336;
+}
+
+
+
 
 
 .carousel-control-prev-icon {
