@@ -148,7 +148,6 @@ header {
 .bolder {font-weight: 300;}
 
 .carousel-inner{
-	position: absolute;
 	left:70px;
 	top:70px;
 	width: 1200px
@@ -176,13 +175,11 @@ input[type=submit]{
 
 
 .carousel-control-prev-icon {
-    position: absolute;
     bottom: -600px;
     left: 78px;
 }
 
 .carousel-control-next-icon {
-    position: absolute;
     bottom: -600px;
 	right: 1125px;
 
