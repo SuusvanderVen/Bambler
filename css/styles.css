@@ -7,7 +7,16 @@
 .img-fluid{
 	max-width: 100%;
 	height: auto;
+	
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}
+
 .headershop {font-family: 'Poppins', sans-serif;}
 .webshopitem {color: #FFFFFF;}
 
@@ -33,6 +42,11 @@
   background-color: #9FB870;
   border-radius: 50%;
   display: inline-block;
+}
+
+.mt-4 {
+	text-align: center;
+	object-position: center;
 }
 
 .dotblack {
