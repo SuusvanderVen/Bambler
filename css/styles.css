@@ -10,6 +10,52 @@
 	
 }
 
+
+.pictureproduct{
+    width: 25%;
+	max-width: 100%;
+	height: auto;
+    object-fit: contain;
+    user-select: none;
+	text-align: left;
+	
+	margin-left: 40px;
+	margin-bottom: 20px;
+}
+
+.productinformation{
+	margin-left: 350px;
+	margin-top: 40px;
+	
+}
+
+
+.alignedproduct {
+            display: flex;
+            align-items: center;
+}
+
+.producttext{ 
+	padding: 20px 20px 80px 40px;
+
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .aligncenter{
 	text-align: center;
 	color: #5F7336;
