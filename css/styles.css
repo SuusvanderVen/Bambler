@@ -221,7 +221,7 @@ input:focus {
 
 
 
-.containerproduct{
+.productdescription{
 	margin-left: 100px;
 	
 }
@@ -331,7 +331,7 @@ input:focus {
   background: #006e58;
 }
 
-.button__text,
+
 .button__icon {
   display: inline-flex;
   align-items: center;
