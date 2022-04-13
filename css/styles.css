@@ -189,16 +189,7 @@ header {
 
 .bolder {font-weight: 300;}
 
-.carousel-inner{
-	left:70px;
-	top:70px;
-	width: 1200px
-	
-}
 
-.carousel-item{
-	width: 0px; 
-}
 
 input[type=text]{ 
 	width: 450px;
@@ -228,37 +219,17 @@ input:focus {
 
 
 
-.carousel-control-prev-icon {
-    bottom: -600px;
-    left: 78px;
-}
 
-.carousel-control-next-icon {
-    bottom: -600px;
-	right: 1125px;
-
-}
-.carousel-control-next,
-.carousel-control-prev /*, .carousel-indicators */ {
-    filter: invert(100%);
-}
 
 .containerproduct{
-	text-align: left;
-	position: absolute;
-	top:260px;
-	left:1205px;
-	font-family:'Poppins', sans-serif;
-	width: auto;
+	margin-left: 100px;
 	
 }
 
 .logoplacement{
-	position:absolute;
-	top:175px;
-	left:1210px;
-	max-width: 100%;
-	height: auto;
+	margin-top: 95px;
+	margin-left: 95px;
+	
 }
 
  .logo-image{
