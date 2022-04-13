@@ -9,7 +9,9 @@
 	height: auto;
 	
 }
-
+.alignleft{
+	text-align: left;
+}
 .center {
   display: block;
   margin-left: auto;
@@ -29,7 +31,10 @@
 	font-family:'Poppins', sans-serif;
 	font-size: 18px;
 }
-.fonts {font-family: 'Poppins', sans-serif;}
+.fonts {font-family: 'Poppins', sans-serif;
+}
+
+
 .form-control { font-family:'Poppins', sans-serif;}
 .form-select{font-family: 'Poppins', sans-serif;}
 .input-group-text {font-family:'Poppins', sans-serif; }
