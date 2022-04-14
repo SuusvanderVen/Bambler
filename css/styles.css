@@ -99,7 +99,11 @@
   width: 85%;
 }
 
-
+.videoplacement{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 .headershop {font-family: 'Poppins', sans-serif;}
 .webshopitem {color: #FFFFFF;}
