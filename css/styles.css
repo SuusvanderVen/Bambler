@@ -11,6 +11,17 @@
 }
 
 
+.circlediagram{
+ display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.videosetting{
+	margin-left: 80px;
+
+}
+
 .pictureproduct{
     width: 30%;
 	max-width: 100%;
@@ -52,13 +63,19 @@
 
 
 
+.explanationcircle{
+	margin-top: 20px;
+	padding: 20px
+}
+
+.explantiontekst{
+	padding-left: 20px;
+}
 
 
-
-
-
-
-
+.aligncenternormal{
+	text-align: center;
+}
 
 
 .aligncenter{
@@ -74,6 +91,16 @@
   margin-right: auto;
   width: 65%;
 }
+
+.centerpostive {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+
+
 
 .headershop {font-family: 'Poppins', sans-serif;}
 .webshopitem {color: #FFFFFF;}
