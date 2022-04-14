@@ -9,7 +9,9 @@
 	height: auto;
 	
 }
-
+.videocenter{ 
+	align-content: center;
+}
 
 .pictureproduct{
     width: 30%;
