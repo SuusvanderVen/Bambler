@@ -508,6 +508,9 @@ margin-top: 20px;
 .pricecart{ color:#6A853E }
 
 /* Effect on social media buttons */
+footer{
+	background-color: #9FB870;
+}
 
 footer a:hover {
 	opacity: .5;
