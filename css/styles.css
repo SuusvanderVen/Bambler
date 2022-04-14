@@ -32,8 +32,12 @@
 
 .alignedproduct {
             display: flex;
-            align-items: center;
+            align-items: flex-start;
 }
+
+
+
+
 
 .producttext{ 
 	padding: 20px 20px 80px 40px;
